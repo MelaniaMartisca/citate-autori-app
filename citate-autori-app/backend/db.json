@@ -1,0 +1,20 @@
+{
+  "quotes": [
+    {
+      "id": "1",
+      "author": "Socrates",
+      "quote": "The only true wisdom is in knowing you know nothing."
+    },
+    {
+      "id": "3",
+      "author": "Authooooor",
+      "quote": "Imagination is more important than knowledge...."
+    },
+    {
+      "author": "Mela",
+      "quote": "Noroc sa ai...<3<3<3",
+      "id": "4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
